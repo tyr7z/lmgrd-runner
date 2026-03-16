@@ -1,6 +1,6 @@
 {
     "env": {
-        "myIncludePath": ["${workspaceFolder}/ext", "${workspaceFolder}/build/_deps/minhook-src/include"]
+        "myIncludePath": ["${workspaceFolder}/ext"]
     },
     "configurations": [
         {
